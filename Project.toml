@@ -1,0 +1,6 @@
+authors = ["Jonas Björnerstedt <jonas@bjornerstedt.org>"]
+name = "Market"
+uuid = "a049f66e-cbdc-11e8-29fc-915028d85dac"
+version = "0.1.0"
+
+[deps]
